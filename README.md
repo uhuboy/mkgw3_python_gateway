@@ -26,7 +26,7 @@
 1. ตั้งค่าไฟล์คอนฟิกูเรชัน (เช่น ค่า IP ของเกตเวย์ หรือ MQTT Broker) ให้เรียบร้อย
 2. รันสคริปต์หลักเพื่อเริ่มใช้งาน:
    ```bash
-   python main.py
+   python mkgw3_python_gateway.py
    ```
 
 ## การสนับสนุน (Support)
